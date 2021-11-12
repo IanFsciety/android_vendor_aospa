@@ -1,0 +1,25 @@
+[
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_device_xiaomi_equuleus",
+        "target_path":  "device/xiaomi/equuleus",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_device_xiaomi_sdm845-common",
+        "target_path":  "device/xiaomi/sdm845-common",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_kernel_xiaomi_sdm845",
+        "target_path":  "kernel/xiaomi/sdm845",
+        "revision":     "sapphire"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_xiaomi",
+        "target_path":  "vendor/xiaomi",
+        "revision":     "sapphire"
+    }
